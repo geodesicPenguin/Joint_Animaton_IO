@@ -3,7 +3,6 @@ from maya import cmds
 import json
 import os
 
-# TODO: Doesnt work on rockstar run anim for some reason. investigate
 
 class animCurveIO():
     def __init__(self):
