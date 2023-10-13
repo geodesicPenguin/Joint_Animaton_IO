@@ -1,5 +1,3 @@
-#README.txt
-
 Add these two files to your script editor:
 AnimIO.py
 AnimIO_UI.py
